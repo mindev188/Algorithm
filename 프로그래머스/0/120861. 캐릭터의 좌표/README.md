@@ -1,6 +1,6 @@
 # [level 0] 캐릭터의 좌표 - 120861 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120861?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120861) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 08월 25일 12:20:54
+2025년 08월 25일 12:21:00
 
 ### 문제 설명
 
