@@ -1,7 +1,10 @@
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.stream.Collectors;
+import java.util.Iterator;
+import java.util.ArrayList;
 class Solution {
-public int[] solution(String[] genres, int[] plays) {
+    public int[] solution(String[] genres, int[] plays) {
 
         /*
          * 1. HashMap에 장르별 총 플레이수를 연산
@@ -14,13 +17,17 @@ public int[] solution(String[] genres, int[] plays) {
            totalPlayMapToGenres.put(genres[i], totalPlayMapToGenres.getOrDefault(genres[i],0) + plays[i]);
         }
         
-        List<Map.Entry<String, Integer>> sortedList = totalPlayMapToGenres.entrySet().stream()
-                                                        .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
-                                                        .collect(Collectors.toList());
+        HashMap<String, Integer> sortedMap = totalPlayMapToGenres.entrySet().stream()
+                                                .sorted(Map.Entry.comparingByValue())
+                                                .collect(Collectors.toMap(
+                                                    Map.Entry::getKey, Map.Entry::getValue,
+                                                    (e1, e2) -> e1,
+                                                    HashMap::new));
         
         ArrayList<Integer> list = new ArrayList();
-        for (Map.Entry<String, Integer> map : sortedList) {
-            String genre = map.getKey();
+        Iterator iterator = sortedMap.keySet().iterator();
+        while (iterator.hasNext()) {
+            String genre = String.valueOf(iterator.next());
             int maxPlay = 0;
             int subPlay = 0;
             int maxPlayIndex = -1;
