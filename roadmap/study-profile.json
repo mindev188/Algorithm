@@ -1,0 +1,16 @@
+{
+  "weeks": 8,
+  "sessions_per_week": 6,
+  "language": "Java",
+  "schedule": {
+    "morning": "08:00",
+    "reminder": "20:00",
+    "timezone": "Asia/Seoul"
+  },
+  "source_ratio": {
+    "platform": 80,
+    "generated": 20
+  },
+  "placement_sessions": 6,
+  "target": "프로그래머스 Lv.2 상위 안정화 / Lv.3 입문"
+}

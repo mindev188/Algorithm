@@ -1,0 +1,10 @@
+.idea/
+out/
+*.iml
+.study/current.json
+.study/*.lock
+.study/*.json.*
+roadmap/*.json.*
+__pycache__/
+*.pyc
+.pytest_cache/
