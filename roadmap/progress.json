@@ -1,7 +1,7 @@
 {
-  "xp": 410,
-  "sr": 486,
-  "placement_completed": 3,
+  "xp": 490,
+  "sr": 492,
+  "placement_completed": 4,
   "completed": [
     {
       "id": "programmers-76502",
@@ -38,13 +38,25 @@
       "elapsed_minutes": null,
       "hints": 0,
       "completed_at": "2026-07-23T09:15:00.124312+09:00"
+    },
+    {
+      "id": "programmers-72411",
+      "title": "메뉴 리뉴얼",
+      "platform": "programmers",
+      "topic": "완전탐색·조합",
+      "difficulty": "Lv.2",
+      "xp": 80,
+      "sr_delta": 6,
+      "elapsed_minutes": null,
+      "hints": 2,
+      "completed_at": "2026-07-23T15:37:02.800061+09:00"
     }
   ],
   "failed": [],
-  "streak": 3,
+  "streak": 4,
   "weekly": {
-    "attempted": 3,
-    "completed": 3,
+    "attempted": 4,
+    "completed": 4,
     "target": 6
   },
   "topics": {
@@ -59,7 +71,11 @@
     "해시": {
       "completed": 1,
       "failed": 0
+    },
+    "완전탐색·조합": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-23T09:15:00.124312+09:00"
+  "last_activity": "2026-07-23T15:37:02.799738+09:00"
 }
