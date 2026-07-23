@@ -1,5 +1,11 @@
 {
-  "unlocked": [],
-  "topic_badges": {},
+  "unlocked": [
+    "스택·큐 발견",
+    "배열·문자열 발견"
+  ],
+  "topic_badges": {
+    "스택·큐": "discovered",
+    "배열·문자열": "discovered"
+  },
   "weekly_quests": []
 }

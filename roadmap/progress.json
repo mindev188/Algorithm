@@ -1,15 +1,65 @@
 {
-  "xp": 0,
-  "sr": 450,
-  "placement_completed": 0,
-  "completed": [],
+  "xp": 410,
+  "sr": 486,
+  "placement_completed": 3,
+  "completed": [
+    {
+      "id": "programmers-76502",
+      "title": "괄호 회전하기",
+      "platform": "programmers",
+      "topic": "스택·큐",
+      "difficulty": "Lv.2",
+      "xp": 150,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-20T08:11:37.784004+09:00"
+    },
+    {
+      "id": "programmers-17684",
+      "title": "[3차] 압축",
+      "platform": "programmers",
+      "topic": "배열·문자열",
+      "difficulty": "Lv.2",
+      "xp": 110,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-20T10:46:41.707669+09:00"
+    },
+    {
+      "id": "programmers-42888",
+      "title": "오픈채팅방",
+      "platform": "programmers",
+      "topic": "해시",
+      "difficulty": "Lv.2",
+      "xp": 150,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-23T09:15:00.124312+09:00"
+    }
+  ],
   "failed": [],
-  "streak": 0,
+  "streak": 3,
   "weekly": {
-    "attempted": 0,
-    "completed": 0,
+    "attempted": 3,
+    "completed": 3,
     "target": 6
   },
-  "topics": {},
-  "last_activity": null
+  "topics": {
+    "스택·큐": {
+      "completed": 1,
+      "failed": 0
+    },
+    "배열·문자열": {
+      "completed": 1,
+      "failed": 0
+    },
+    "해시": {
+      "completed": 1,
+      "failed": 0
+    }
+  },
+  "last_activity": "2026-07-23T09:15:00.124312+09:00"
 }
