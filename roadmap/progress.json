@@ -1,7 +1,7 @@
 {
-  "xp": 490,
-  "sr": 492,
-  "placement_completed": 4,
+  "xp": 600,
+  "sr": 504,
+  "placement_completed": 5,
   "completed": [
     {
       "id": "programmers-76502",
@@ -50,13 +50,25 @@
       "elapsed_minutes": null,
       "hints": 2,
       "completed_at": "2026-07-23T15:37:02.800061+09:00"
+    },
+    {
+      "id": "programmers-81302",
+      "title": "거리두기 확인하기",
+      "platform": "programmers",
+      "topic": "BFS·DFS",
+      "difficulty": "Lv.2",
+      "xp": 110,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-24T10:36:10.375402+09:00"
     }
   ],
   "failed": [],
-  "streak": 4,
+  "streak": 5,
   "weekly": {
-    "attempted": 4,
-    "completed": 4,
+    "attempted": 5,
+    "completed": 5,
     "target": 6
   },
   "topics": {
@@ -75,7 +87,11 @@
     "완전탐색·조합": {
       "completed": 1,
       "failed": 0
+    },
+    "BFS·DFS": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-23T15:37:02.799738+09:00"
+  "last_activity": "2026-07-24T10:36:10.375226+09:00"
 }
