@@ -12,27 +12,28 @@ class Solution {
             int ySize = room.length;
             int xSize = room[0].length();
 
-            boolean[][] visited = new boolean[ySize][xSize];
             Queue<String> queue = new LinkedList<>();
             for (int i = 0; i < ySize; i++) {
                 for (int j = 0; j < xSize; j++) {
                     String row = room[i];
                     String place = String.valueOf(row.charAt(j));
-                    if (visited[i][j] || !"P".equals(place)) continue;
+                    if (!"P".equals(place)) continue;
 
+                    boolean[][] visited = new boolean[ySize][xSize];
                     visited[i][j] = true;
-                    if (DFS(visited, room, j, i, 0)) {
+                    if (dfs(visited, room, j, i, 0)) {
                         answer[roomNum] = 0;
+                        break;
                     }
-
                 }
+                if (answer[roomNum] == 0) break;
             }
         }
 
         return answer;
     }
 
-    private boolean DFS(boolean[][] visited, String[] room, int x, int y, int dept) {
+    private boolean dfs(boolean[][] visited, String[] room, int x, int y, int dept) {
         if (dept >= 2) return false;
 
         for (int i = 0; i < directionX.length; i++) {
@@ -43,7 +44,7 @@ class Solution {
                 if (visited[nextY][nextX] || room[nextY].charAt(nextX) == 'X') continue;
                 if (room[nextY].charAt(nextX) == 'P') return true;
                 visited[nextY][nextX] = true;
-                if (DFS(visited, room, nextX, nextY, dept + 1)) return true;
+                if (dfs(visited, room, nextX, nextY, dept + 1)) return true;
             }
 
         }
