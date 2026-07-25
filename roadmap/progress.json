@@ -1,7 +1,7 @@
 {
-  "xp": 600,
-  "sr": 504,
-  "placement_completed": 5,
+  "xp": 710,
+  "sr": 516,
+  "placement_completed": 6,
   "completed": [
     {
       "id": "programmers-76502",
@@ -62,13 +62,25 @@
       "elapsed_minutes": null,
       "hints": 0,
       "completed_at": "2026-07-24T10:36:10.375402+09:00"
+    },
+    {
+      "id": "programmers-181188",
+      "title": "요격 시스템",
+      "platform": "programmers",
+      "topic": "정렬·그리디",
+      "difficulty": "Lv.2",
+      "xp": 110,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-25T09:19:41.806469+09:00"
     }
   ],
   "failed": [],
-  "streak": 5,
+  "streak": 6,
   "weekly": {
-    "attempted": 5,
-    "completed": 5,
+    "attempted": 6,
+    "completed": 6,
     "target": 6
   },
   "topics": {
@@ -91,7 +103,11 @@
     "BFS·DFS": {
       "completed": 1,
       "failed": 0
+    },
+    "정렬·그리디": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-24T10:36:10.375226+09:00"
+  "last_activity": "2026-07-25T09:19:41.806280+09:00"
 }
