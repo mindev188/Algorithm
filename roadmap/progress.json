@@ -1,6 +1,6 @@
 {
-  "xp": 710,
-  "sr": 516,
+  "xp": 820,
+  "sr": 528,
   "placement_completed": 6,
   "completed": [
     {
@@ -74,13 +74,25 @@
       "elapsed_minutes": null,
       "hints": 0,
       "completed_at": "2026-07-25T09:19:41.806469+09:00"
+    },
+    {
+      "id": "programmers-131127",
+      "title": "할인 행사",
+      "platform": "programmers",
+      "topic": "해시·슬라이딩윈도우",
+      "difficulty": "Lv.2",
+      "xp": 110,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-26T10:08:13.589140+09:00"
     }
   ],
   "failed": [],
-  "streak": 6,
+  "streak": 7,
   "weekly": {
-    "attempted": 6,
-    "completed": 6,
+    "attempted": 7,
+    "completed": 7,
     "target": 6
   },
   "topics": {
@@ -107,7 +119,11 @@
     "정렬·그리디": {
       "completed": 1,
       "failed": 0
+    },
+    "해시·슬라이딩윈도우": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-25T09:19:41.806280+09:00"
+  "last_activity": "2026-07-26T10:08:13.588909+09:00"
 }

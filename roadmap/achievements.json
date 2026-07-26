@@ -4,14 +4,17 @@
     "배열·문자열 발견",
     "완전탐색·조합 발견",
     "BFS·DFS 발견",
-    "정렬·그리디 발견"
+    "정렬·그리디 발견",
+    "루틴 빌더",
+    "해시·슬라이딩윈도우 발견"
   ],
   "topic_badges": {
     "스택·큐": "discovered",
     "배열·문자열": "discovered",
     "완전탐색·조합": "discovered",
     "BFS·DFS": "discovered",
-    "정렬·그리디": "discovered"
+    "정렬·그리디": "discovered",
+    "해시·슬라이딩윈도우": "discovered"
   },
   "weekly_quests": []
 }
