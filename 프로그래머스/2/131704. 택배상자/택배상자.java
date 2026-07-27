@@ -1,30 +1,29 @@
-import java.util.Stack;
+import java.util.*;
 class Solution {
     public int solution(int[] order) {
         int answer = 0;
-        Stack<Integer> subBelt = new Stack<>();
+        Deque<Integer> subBelt = new ArrayDeque<>();
         int mainBeltBoxNum = 1;
-        for (int i = 0; i < order.length; i++) {
-            int orderBoxNum = order[i];
+        for (int orderBoxNum : order) {
+            // orderBoxNum이 mainBeltBox 와 일치하지 않은 경우 subBelt에 다 올린다.
+            while (mainBeltBoxNum < orderBoxNum) {
+                subBelt.push(mainBeltBoxNum++);
+            }
+
             /**
              * 1. main 벨트에서 발견하는 경우 종료
              * 2. sub 벨트에서 발견하는 경우 종료
-             * 3. 둘다 아닌 경우 sub 벨트에 추가 및 다음 조건 진행
-             *      - 만약 main 벨트값이 초과된 경우 끝
+             * 3. 둘다 아닌 경우 끝
              */
-            do {
-                 if (orderBoxNum == mainBeltBoxNum) {
-                    mainBeltBoxNum++;
-                    answer++;
-                    break;
-                }
-                if (!subBelt.isEmpty() && orderBoxNum == subBelt.peek()) {
-                    subBelt.pop();
-                    answer++;
-                    break;
-                }
-                subBelt.add(mainBeltBoxNum++);
-            } while (mainBeltBoxNum <= order.length);
+             if (orderBoxNum == mainBeltBoxNum) {
+                mainBeltBoxNum++;
+                answer++;
+             } else if (!subBelt.isEmpty() && orderBoxNum == subBelt.peek()) {
+                subBelt.pop();
+                answer++;
+             } else {
+                 break;
+             }
         }
 
         return answer;
