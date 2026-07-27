@@ -1,6 +1,6 @@
 {
-  "xp": 820,
-  "sr": 528,
+  "xp": 930,
+  "sr": 540,
   "placement_completed": 6,
   "completed": [
     {
@@ -86,13 +86,25 @@
       "elapsed_minutes": null,
       "hints": 0,
       "completed_at": "2026-07-26T10:08:13.589140+09:00"
+    },
+    {
+      "id": "programmers-131704",
+      "title": "택배상자",
+      "platform": "programmers",
+      "topic": "스택·시뮬레이션",
+      "difficulty": "Lv.2",
+      "xp": 110,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-27T10:36:32.379607+09:00"
     }
   ],
   "failed": [],
-  "streak": 7,
+  "streak": 8,
   "weekly": {
-    "attempted": 7,
-    "completed": 7,
+    "attempted": 8,
+    "completed": 8,
     "target": 6
   },
   "topics": {
@@ -123,7 +135,11 @@
     "해시·슬라이딩윈도우": {
       "completed": 1,
       "failed": 0
+    },
+    "스택·시뮬레이션": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-26T10:08:13.588909+09:00"
+  "last_activity": "2026-07-27T10:36:32.379443+09:00"
 }
