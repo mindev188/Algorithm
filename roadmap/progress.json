@@ -1,6 +1,6 @@
 {
-  "xp": 930,
-  "sr": 540,
+  "xp": 1050,
+  "sr": 546,
   "placement_completed": 6,
   "completed": [
     {
@@ -98,13 +98,25 @@
       "elapsed_minutes": null,
       "hints": 0,
       "completed_at": "2026-07-27T10:36:32.379607+09:00"
+    },
+    {
+      "id": "programmers-118667",
+      "title": "두 큐 합 같게 만들기",
+      "platform": "programmers",
+      "topic": "큐·투포인터",
+      "difficulty": "Lv.2",
+      "xp": 120,
+      "sr_delta": 6,
+      "elapsed_minutes": null,
+      "hints": 1,
+      "completed_at": "2026-07-28T09:12:27.984825+09:00"
     }
   ],
   "failed": [],
-  "streak": 8,
+  "streak": 9,
   "weekly": {
-    "attempted": 8,
-    "completed": 8,
+    "attempted": 9,
+    "completed": 9,
     "target": 6
   },
   "topics": {
@@ -139,7 +151,11 @@
     "스택·시뮬레이션": {
       "completed": 1,
       "failed": 0
+    },
+    "큐·투포인터": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-27T10:36:32.379443+09:00"
+  "last_activity": "2026-07-28T09:12:27.984659+09:00"
 }
