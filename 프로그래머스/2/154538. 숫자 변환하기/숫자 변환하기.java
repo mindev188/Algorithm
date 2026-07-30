@@ -14,14 +14,14 @@ class Solution {
             int count = arr[1];
             if (num == y) return count;
 
-            bfs(y, num + n, count);
-            bfs(y, num * 2, count);
-            bfs(y, num * 3, count);
+            addQueue(y, num + n, count);
+            addQueue(y, num * 2, count);
+            addQueue(y, num * 3, count);
         }
         return -1;
     }
 
-    private void bfs(int y, int next1, int count) {
+    private void addQueue(int y, int next1, int count) {
         if (next1 <= y && !visited[next1]) {
             visited[next1] = true;
             queue.add(new int[]{next1, count + 1});
