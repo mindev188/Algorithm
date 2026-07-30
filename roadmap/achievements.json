@@ -8,7 +8,9 @@
     "루틴 빌더",
     "해시·슬라이딩윈도우 발견",
     "스택·시뮬레이션 발견",
-    "큐·투포인터 발견"
+    "큐·투포인터 발견",
+    "투 포인터 발견",
+    "BFS·DP 발견"
   ],
   "topic_badges": {
     "스택·큐": "discovered",
@@ -18,7 +20,9 @@
     "정렬·그리디": "discovered",
     "해시·슬라이딩윈도우": "discovered",
     "스택·시뮬레이션": "discovered",
-    "큐·투포인터": "discovered"
+    "큐·투포인터": "discovered",
+    "투 포인터": "discovered",
+    "BFS·DP": "discovered"
   },
   "weekly_quests": []
 }

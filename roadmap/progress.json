@@ -1,6 +1,6 @@
 {
-  "xp": 1050,
-  "sr": 546,
+  "xp": 1350,
+  "sr": 570,
   "placement_completed": 6,
   "completed": [
     {
@@ -110,13 +110,37 @@
       "elapsed_minutes": null,
       "hints": 1,
       "completed_at": "2026-07-28T09:12:27.984825+09:00"
+    },
+    {
+      "id": "programmers-178870",
+      "title": "연속된 부분 수열의 합",
+      "platform": "programmers",
+      "topic": "투 포인터",
+      "difficulty": "Lv.2",
+      "xp": 150,
+      "sr_delta": 12,
+      "elapsed_minutes": null,
+      "hints": 0,
+      "completed_at": "2026-07-29T10:01:07.442782+09:00"
+    },
+    {
+      "id": "programmers-154538",
+      "title": "숫자 변환하기",
+      "platform": "programmers",
+      "topic": "BFS·DP",
+      "difficulty": "Lv.2",
+      "xp": 150,
+      "sr_delta": 12,
+      "elapsed_minutes": 67,
+      "hints": 0,
+      "completed_at": "2026-07-30T09:17:27.000516+09:00"
     }
   ],
   "failed": [],
-  "streak": 9,
+  "streak": 11,
   "weekly": {
-    "attempted": 9,
-    "completed": 9,
+    "attempted": 11,
+    "completed": 11,
     "target": 6
   },
   "topics": {
@@ -155,7 +179,15 @@
     "큐·투포인터": {
       "completed": 1,
       "failed": 0
+    },
+    "투 포인터": {
+      "completed": 1,
+      "failed": 0
+    },
+    "BFS·DP": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-28T09:12:27.984659+09:00"
+  "last_activity": "2026-07-30T09:17:26.973357+09:00"
 }
