@@ -1,6 +1,6 @@
 {
-  "xp": 1350,
-  "sr": 570,
+  "xp": 1430,
+  "sr": 576,
   "placement_completed": 6,
   "completed": [
     {
@@ -134,13 +134,25 @@
       "elapsed_minutes": 67,
       "hints": 0,
       "completed_at": "2026-07-30T09:17:27.000516+09:00"
+    },
+    {
+      "id": "programmers-49994",
+      "title": "방문 길이",
+      "platform": "programmers",
+      "topic": "시뮬레이션·집합",
+      "difficulty": "Lv.2",
+      "xp": 80,
+      "sr_delta": 6,
+      "elapsed_minutes": 90,
+      "hints": 1,
+      "completed_at": "2026-07-31T10:29:17.933796+09:00"
     }
   ],
   "failed": [],
-  "streak": 11,
+  "streak": 12,
   "weekly": {
-    "attempted": 11,
-    "completed": 11,
+    "attempted": 12,
+    "completed": 12,
     "target": 6
   },
   "topics": {
@@ -187,7 +199,11 @@
     "BFS·DP": {
       "completed": 1,
       "failed": 0
+    },
+    "시뮬레이션·집합": {
+      "completed": 1,
+      "failed": 0
     }
   },
-  "last_activity": "2026-07-30T09:17:26.973357+09:00"
+  "last_activity": "2026-07-31T10:29:17.933595+09:00"
 }
