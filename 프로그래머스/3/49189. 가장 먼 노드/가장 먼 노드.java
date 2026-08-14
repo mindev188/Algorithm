@@ -2,51 +2,43 @@ import java.util.*;
 class Solution {
 
     public int solution(int n, int[][] edge) {
-        int max = 0;
         int answer = 0;
-
         boolean[] visited = new boolean[n + 1];
-        List<Integer>[] graph = new ArrayList[n + 1];
-        for (int i = 0; i < graph.length; i++) {
-            graph[i] = new ArrayList<>();
+        List<List<Integer>> graph = new ArrayList<>();
+        for (int i = 0; i <= n; i++) {
+            graph.add(new ArrayList<>());
         }
 
         for (int i = 0; i < edge.length; i++) {
             int a = edge[i][0];
             int b = edge[i][1];
-            graph[a].add(b);
-            graph[b].add(a);
+            graph.get(a).add(b);
+            graph.get(b).add(a);
         }
 
-        Queue<Node> queue = new ArrayDeque<>();
-        queue.add(new Node(1, 0));
+        Queue<int[]> queue = new ArrayDeque<>();
+        queue.add(new int[] {1,0});
         visited[1] = true;
+        int max = Integer.MIN_VALUE;
         while (!queue.isEmpty()) {
-            Node node = queue.poll();
-            if (node.depth > max) {
+            int[] arr = queue.poll();
+            int node = arr[0];
+            int depth = arr[1];
+
+            if (depth > max) {
+                max = depth;
                 answer = 1;
-                max = node.depth;
-            } else if (node.depth == max) {
+            } else if (depth == max) {
                 answer++;
             }
 
-            List<Integer> list = graph[node.index];
-            for (int i : list) {
-                if (visited[i]) continue;
-                visited[i] = true;
-                queue.offer(new Node(i, node.depth + 1));
+            for (int target : graph.get(node)) {
+                if (visited[target]) continue;
+                visited[target] = true;
+                queue.offer(new int[] {target, depth + 1});
             }
         }
+
         return answer;
-    }
-
-    class Node {
-        int index;
-        int depth;
-
-        public Node(int index, int depth) {
-            this.index = index;
-            this.depth = depth;
-        }
     }
 }
