@@ -1,35 +1,24 @@
+import java.util.*;
 class Solution {
+    String[] str = {"A", "E", "I", "O", "U"};
+    List<String> dictionary;
     public int solution(String word) {
-        int answer = 0;
+        dictionary = new ArrayList<>();
 
-        int[] weight = new int[5];
-        int weightSize = weight.length;
-        for (int i = 0; i < weightSize; i++) { // 0 ~ 3
-            int num = 1;
-            for (int j = 4 - i; j >= 1; j--) {
-                num += Math.pow(5, j);
-            }
-            weight[i] = num;
+        // bfs
+        for (int i = 0; i < str.length; i++) {
+            bfs(str[i]);
         }
 
-        for (int i = 0; i < word.length(); i++) {
-            char a = word.charAt(i);
+        return dictionary.indexOf(word) + 1;
+    }
 
-            int index = 0;
-            switch(a) {
-                case'E': index = 1;
-                    break;
-                case'I': index = 2;
-                    break;
-                case'O': index = 3;
-                    break;
-                case'U': index = 4;
-                    break;
-                default: index = 0;
-            }
+    private void bfs(String s) {
+        dictionary.add(s);
 
-            answer += 1 + index * weight[i];
+        if (s.length() == 5) return;
+        for (int i = 0; i < str.length; i++) {
+            bfs(s + str[i]);
         }
-        return answer;
     }
 }
