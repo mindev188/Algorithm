@@ -7,35 +7,17 @@ class Solution {
             return a[0].compareTo(b[0]);
         });
 
-        List<PriorityQueue<Integer>> rooms = new ArrayList<>();
-        PriorityQueue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());
-        queue.add(toMinute(book_time[0][1]));
-        rooms.add(queue);
+        PriorityQueue<Integer> rooms = new PriorityQueue<>();
 
         // 예약 확인
-        for (int i = 1; i < book_time.length; i++) {
-            int targetStartTime = toMinute(book_time[i][0]);
-            int targetEndTime = toMinute(book_time[i][1]);
+        for (int i = 0; i < book_time.length; i++) {
+            int start = toMinute(book_time[i][0]);
+            int end = toMinute(book_time[i][1]) + 10;
 
-            // 방 확인 (가장 빠른 방)
-            int earlyRoom = -1;
-            int earlyStartTime = Integer.MAX_VALUE;
-            for (int j = 0; j < rooms.size(); j++) {
-                PriorityQueue<Integer> room = rooms.get(j);
-
-                if (room.peek() + 10 <= targetStartTime && room.peek() + 10 < earlyStartTime) {
-                    earlyStartTime = room.peek() + 10;
-                    earlyRoom = j;
-                }
+            if (!rooms.isEmpty() && rooms.peek() <= start) {
+                rooms.poll();
             }
-
-            if (earlyRoom == -1) {
-                PriorityQueue<Integer> newRoom = new PriorityQueue<>(Collections.reverseOrder());
-                newRoom.add(targetEndTime);
-                rooms.add(newRoom);
-            } else {
-                rooms.get(earlyRoom).add(targetEndTime);
-            }
+            rooms.offer(end);
         }
         return rooms.size();
     }
