@@ -1,57 +1,43 @@
-import java.util.Arrays;
-import java.util.ArrayList;
+import java.util.*;
 class Solution {
     public int solution(int n, int[][] wires) {
         int answer = Integer.MAX_VALUE;
+        List<Integer>[] tree = new ArrayList[n];
+        for (int i = 0; i < tree.length; i++) {
+            tree[i] = new ArrayList<>();
+        }
 
-        Node[] tree = new Node[n + 1];
         for (int i = 0; i < wires.length; i++) {
-            int[] wire = wires[i];
-            if (tree[wire[0]] == null) tree[wires[i][0]] = new Node();
-            if (tree[wire[1]] == null) tree[wires[i][1]] = new Node();
-
-            tree[wire[0]].add(wire[1]);
-            tree[wire[1]].add(wire[0]);
+            int a = wires[i][0] - 1;
+            int b = wires[i][1] - 1;
+            tree[a].add(b);
+            tree[b].add(a);
         }
 
         boolean[] visited;
         for (int i = 0; i < wires.length; i++) {
-            visited = new boolean[n + 1];
-            int a = wires[i][0];
-            int b = wires[i][1];
+            visited = new boolean[n];
 
+            int a = wires[i][0] - 1;
+            int b = wires[i][1] - 1;
+            visited[a] = true;
             visited[b] = true;
-            int sizeA = dfs(tree, visited, a);
-            int sizeB = n - sizeA;
+            int aDept = dfs(tree, visited, a);
+            int bDept = n - aDept;
 
-            answer = Math.min(answer, Math.abs(sizeA - sizeB));
+            if (aDept - bDept == 0) return 0;
+            answer = Math.min(Math.abs(aDept - bDept), answer);
         }
-
         return answer;
     }
 
-    int dfs(Node[] tree, boolean[] visited, int startNum) {
-        visited[startNum] = true;
-        int count = 1;
-
-        for (int next : tree[startNum].list) {
-            if (!visited[next]) {
-                count += dfs(tree, visited, next);
-            }
+    private int dfs(List<Integer>[] tree, boolean[] visited, int a) {
+        int total = 1;
+        for (int i = 0; i < tree[a].size(); i++) {
+            if (visited[tree[a].get(i)]) continue;
+            visited[tree[a].get(i)] = true;
+            total += dfs(tree, visited, tree[a].get(i));
         }
-
-        return count;
-    }
-
-    class Node {
-        ArrayList<Integer> list;
-
-        Node() {
-            this.list = new ArrayList<>();
-        }
-
-        void add(int num) {
-            list.add(num);
-        }
+        return total;
     }
 }
