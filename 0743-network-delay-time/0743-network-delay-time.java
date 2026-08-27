@@ -24,6 +24,7 @@ class Solution {
             int[] node = queue.poll();
             int current = node[0];
             int time = node[1];
+            if (time > dept[current]) continue;
 
             for (int i = 0; i < graph[current].size(); i++) {
                 int nextNode = graph[current].get(i)[0];
