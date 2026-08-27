@@ -82,3 +82,31 @@ fix: baekjoon 1260 visited reset bug
 - 최종 풀이
 - 시간복잡도 / 공간복잡도
 - 다음에 다시 볼 포인트
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+<!---LeetCode Topics End-->
