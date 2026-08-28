@@ -109,4 +109,16 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+## Array
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
