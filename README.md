@@ -112,15 +112,21 @@ fix: baekjoon 1260 visited reset bug
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
