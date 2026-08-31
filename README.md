@@ -115,6 +115,7 @@ fix: baekjoon 1260 visited reset bug
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
+| [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +130,5 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
