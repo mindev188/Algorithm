@@ -3,28 +3,20 @@ class Solution {
         int answer = -1;
 
         boolean[] visited = new boolean[dungeons.length];
-
-        answer = dfs(k, dungeons, visited, 0);
-
-        return answer;
+        answer = search(k, dungeons, visited);
+        return answer - 1;
     }
 
-    int dfs(int k, int[][] dungeons, boolean[] visited, int count) {
-        int max = count;
-        
+    private int search(int status, int[][] dungeons, boolean[] visited) {
+        int maxCount = 0;
         for (int i = 0; i < dungeons.length; i++) {
-            if (visited[i]) continue;
+            if (visited[i] || status < dungeons[i][0]) continue;
 
-            if (dungeons[i][0] > k) continue; // 최소피로도 조건
-            visited[i] = true; // 탐색 여부
-
-            // 반환된 값이 maxCount 보다 이상인 경우 해당 값으로 초기화
-            int result = dfs(k - dungeons[i][1], dungeons, visited, count + 1);
-            max = Math.max(max, result);
-
-            visited[i] = false; // 탐색 여부 원복
+            visited[i] = true;
+            maxCount = Math.max(maxCount, search(status - dungeons[i][1], dungeons, visited));
+            visited[i] = false;
         }
 
-        return max;
+        return maxCount + 1;
     }
 }
