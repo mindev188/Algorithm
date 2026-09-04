@@ -1,51 +1,33 @@
-import java.util.*;
 class Solution {
     public int solution(String begin, String target, String[] words) {
         int answer = 0;
-
-        boolean isInclude = false;
-        for (String word : words) {
-            if (word.equals(target)) { isInclude = true; break; }
-        }
-        if (!isInclude) {return answer;}
-
-        answer = bfs(begin, target, words);
-        return answer;
-    }
-
-    private int bfs(String begin, String target, String[] words) {
-        Queue<String> queue = new LinkedList<>();
-        Queue<Integer> countQueue = new LinkedList<>();
         boolean[] visited = new boolean[words.length];
+        answer = dfs(begin, target, words, visited, 0);
 
-        queue.offer(begin);
-        countQueue.offer(0);
-
-        // begin 에서 하나의 문자열을 바꾼 값이 words에 있는가 check 하기
-        while (!queue.isEmpty()) {
-            String current = queue.poll();
-            int count = countQueue.poll();
-
-            for (int i = 0; i < words.length; i++) {
-                if (!visited[i] && canChange(current, words[i])) {
-                    if (words[i].equals(target)) {
-                        return count + 1;
-                    }
-                    visited[i] = true;
-                    queue.offer(words[i]);
-                    countQueue.offer(count + 1);
-                }
-            }
-        }
-
-        return 0;
+        return answer == Integer.MAX_VALUE ? 0 : answer;
     }
 
-    private boolean canChange(String a, String b) {
-        int diff = 0;
-        for (int i = 0; i < a.length(); i++) {
-            if (a.charAt(i) != b.charAt(i)) diff++;
+    private int dfs(String begin, String target, String[] words, boolean[] visited, int count) {
+        if (begin.equals(target)) return count;
+
+        int minCount = Integer.MAX_VALUE;
+        for (int i = 0; i < words.length; i++) {
+            if (visited[i]) continue;
+            if (!isMatch(begin, words[i])) continue;
+
+            visited[i] = true;
+            minCount = Math.min(minCount, dfs(words[i], target, words, visited, count + 1));
+            visited[i] = false;
         }
-        return diff == 1;
+        return minCount;
+    }
+
+    boolean isMatch(String AString, String BString) {
+        int matchCount = 0;
+        for (int i = 0; i < AString.length(); i++) {
+            if (AString.charAt(i) == BString.charAt(i)) matchCount++;
+        }
+
+       return matchCount + 1 == AString.length() ? true : false;
     }
 }
