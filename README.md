@@ -89,11 +89,13 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -121,6 +123,7 @@ fix: baekjoon 1260 visited reset bug
 | [0213-house-robber-ii](https://github.com/mindev188/Algorithm/tree/master/0213-house-robber-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +136,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +151,5 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
