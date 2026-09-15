@@ -130,6 +130,7 @@ fix: baekjoon 1260 visited reset bug
 | [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,12 +186,15 @@ fix: baekjoon 1260 visited reset bug
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
