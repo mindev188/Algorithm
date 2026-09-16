@@ -127,6 +127,7 @@ fix: baekjoon 1260 visited reset bug
 | [0213-house-robber-ii](https://github.com/mindev188/Algorithm/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
@@ -176,6 +177,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -201,9 +203,11 @@ fix: baekjoon 1260 visited reset bug
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
