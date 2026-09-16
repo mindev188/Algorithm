@@ -183,6 +183,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -205,6 +206,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -216,4 +218,8 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
