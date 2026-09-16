@@ -121,6 +121,7 @@ fix: baekjoon 1260 visited reset bug
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/mindev188/Algorithm/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
@@ -203,6 +204,7 @@ fix: baekjoon 1260 visited reset bug
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -210,4 +212,8 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
