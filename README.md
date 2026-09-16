@@ -183,6 +183,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/mindev188/Algorithm/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -205,6 +206,7 @@ fix: baekjoon 1260 visited reset bug
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mindev188/Algorithm/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
@@ -222,4 +224,8 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mindev188/Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
