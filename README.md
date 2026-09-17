@@ -131,6 +131,7 @@ fix: baekjoon 1260 visited reset bug
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/mindev188/Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -210,6 +211,7 @@ fix: baekjoon 1260 visited reset bug
 | [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/mindev188/Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -228,4 +230,8 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mindev188/Algorithm/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/mindev188/Algorithm/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
