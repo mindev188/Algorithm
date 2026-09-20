@@ -108,6 +108,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
@@ -135,6 +136,7 @@ fix: baekjoon 1260 visited reset bug
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/mindev188/Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -164,6 +166,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -226,6 +229,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -242,6 +246,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -254,4 +259,13 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
