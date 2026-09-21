@@ -109,6 +109,7 @@ fix: baekjoon 1260 visited reset bug
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
@@ -139,6 +140,7 @@ fix: baekjoon 1260 visited reset bug
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
