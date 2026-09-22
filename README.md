@@ -111,6 +111,7 @@ fix: baekjoon 1260 visited reset bug
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -142,6 +143,7 @@ fix: baekjoon 1260 visited reset bug
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@ fix: baekjoon 1260 visited reset bug
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +173,7 @@ fix: baekjoon 1260 visited reset bug
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -209,6 +213,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
