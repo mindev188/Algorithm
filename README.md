@@ -140,6 +140,7 @@ fix: baekjoon 1260 visited reset bug
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/mindev188/Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/mindev188/Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -199,6 +200,7 @@ fix: baekjoon 1260 visited reset bug
 | [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/mindev188/Algorithm/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/mindev188/Algorithm/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -217,6 +219,7 @@ fix: baekjoon 1260 visited reset bug
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mindev188/Algorithm/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/mindev188/Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
