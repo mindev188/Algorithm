@@ -196,6 +196,7 @@ fix: baekjoon 1260 visited reset bug
 | [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -205,12 +206,14 @@ fix: baekjoon 1260 visited reset bug
 | [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
