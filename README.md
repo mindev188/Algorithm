@@ -123,6 +123,7 @@ fix: baekjoon 1260 visited reset bug
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/mindev188/Algorithm/tree/master/0134-gas-station) |
@@ -170,6 +171,7 @@ fix: baekjoon 1260 visited reset bug
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
@@ -191,6 +193,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
@@ -199,6 +202,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mindev188/Algorithm/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
