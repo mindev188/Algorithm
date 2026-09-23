@@ -147,6 +147,7 @@ fix: baekjoon 1260 visited reset bug
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/mindev188/Algorithm/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@ fix: baekjoon 1260 visited reset bug
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mindev188/Algorithm/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
@@ -225,6 +227,7 @@ fix: baekjoon 1260 visited reset bug
 | [0713-subarray-product-less-than-k](https://github.com/mindev188/Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mindev188/Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/mindev188/Algorithm/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
