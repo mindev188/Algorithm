@@ -142,6 +142,7 @@ fix: baekjoon 1260 visited reset bug
 | [0713-subarray-product-less-than-k](https://github.com/mindev188/Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/mindev188/Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/mindev188/Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/mindev188/Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
@@ -237,6 +238,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/mindev188/Algorithm/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/mindev188/Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mindev188/Algorithm/tree/master/1208-get-equal-substrings-within-budget) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
