@@ -148,6 +148,7 @@ fix: baekjoon 1260 visited reset bug
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mindev188/Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/mindev188/Algorithm/tree/master/1695-maximum-erasure-value) |
@@ -241,6 +242,7 @@ fix: baekjoon 1260 visited reset bug
 | [0875-koko-eating-bananas](https://github.com/mindev188/Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mindev188/Algorithm/tree/master/1208-get-equal-substrings-within-budget) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mindev188/Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Prefix Sum
 |  |
