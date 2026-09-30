@@ -137,6 +137,7 @@ fix: baekjoon 1260 visited reset bug
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/mindev188/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/mindev188/Algorithm/tree/master/0713-subarray-product-less-than-k) |
@@ -206,6 +207,7 @@ fix: baekjoon 1260 visited reset bug
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/mindev188/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mindev188/Algorithm/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/mindev188/Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/mindev188/Algorithm/tree/master/1695-maximum-erasure-value) |
@@ -249,6 +251,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mindev188/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mindev188/Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/mindev188/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mindev188/Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mindev188/Algorithm/tree/master/1208-get-equal-substrings-within-budget) |
