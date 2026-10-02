@@ -96,6 +96,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
@@ -138,6 +139,7 @@ fix: baekjoon 1260 visited reset bug
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/mindev188/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/mindev188/Algorithm/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mindev188/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
@@ -162,12 +164,14 @@ fix: baekjoon 1260 visited reset bug
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mindev188/Algorithm/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
