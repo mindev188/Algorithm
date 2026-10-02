@@ -21,11 +21,6 @@ class Solution {
             }
         }
 
-        /*
-            1. 1인 값들만 queue에 저장
-            2. queue 값 소비
-            3. queue 상하좌우에 값이 0 이상이면 해당 값 + 1로 저장
-         */
         int YLimit = mat.length;
         int XLimit = mat[0].length;
         while (!queue.isEmpty()) {
@@ -38,8 +33,6 @@ class Solution {
                 int nextX = currentX + DX[i];
 
                 if (nextY < 0 || nextY >= YLimit || nextX < 0 || nextX >= XLimit) continue;
-                if (mat[nextY][nextX] != 1) continue;
-
                 if (result[nextY][nextX] == -1) {
                     result[nextY][nextX] = result[currentY][currentX] + 1;
                     queue.offer(new int[] {nextY, nextX});
