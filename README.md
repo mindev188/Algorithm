@@ -350,4 +350,8 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/mindev188/Algorithm/tree/master/0567-permutation-in-string) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/mindev188/Algorithm/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
