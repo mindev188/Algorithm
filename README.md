@@ -356,6 +356,7 @@ fix: baekjoon 1260 visited reset bug
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/mindev188/Algorithm/tree/master/0175-combine-two-tables) |
 | [1075-project-employees-i](https://github.com/mindev188/Algorithm/tree/master/1075-project-employees-i) |
 ## Topological Sort
 |  |
