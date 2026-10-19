@@ -145,6 +145,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/mindev188/Algorithm/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/mindev188/Algorithm/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -211,6 +212,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/mindev188/Algorithm/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
@@ -386,4 +388,8 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mindev188/Algorithm/tree/master/0207-course-schedule) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mindev188/Algorithm/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
