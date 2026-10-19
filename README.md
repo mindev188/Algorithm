@@ -96,6 +96,7 @@ fix: baekjoon 1260 visited reset bug
 | [0684-redundant-connection](https://github.com/mindev188/Algorithm/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ fix: baekjoon 1260 visited reset bug
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mindev188/Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -128,6 +130,7 @@ fix: baekjoon 1260 visited reset bug
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -136,6 +139,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mindev188/Algorithm/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Array
 |  |
 | ------- |
@@ -172,6 +176,7 @@ fix: baekjoon 1260 visited reset bug
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mindev188/Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/mindev188/Algorithm/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
 |  |
@@ -194,6 +199,7 @@ fix: baekjoon 1260 visited reset bug
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mindev188/Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +222,7 @@ fix: baekjoon 1260 visited reset bug
 | [0547-number-of-provinces](https://github.com/mindev188/Algorithm/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/mindev188/Algorithm/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mindev188/Algorithm/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -273,6 +280,7 @@ fix: baekjoon 1260 visited reset bug
 | [1208-get-equal-substrings-within-budget](https://github.com/mindev188/Algorithm/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mindev188/Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mindev188/Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/mindev188/Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
