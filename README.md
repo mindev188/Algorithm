@@ -174,6 +174,7 @@ fix: baekjoon 1260 visited reset bug
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/mindev188/Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mindev188/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1024-video-stitching](https://github.com/mindev188/Algorithm/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/mindev188/Algorithm/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mindev188/Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mindev188/Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -191,6 +192,7 @@ fix: baekjoon 1260 visited reset bug
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/mindev188/Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
+| [1024-video-stitching](https://github.com/mindev188/Algorithm/tree/master/1024-video-stitching) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -212,6 +214,7 @@ fix: baekjoon 1260 visited reset bug
 | [0435-non-overlapping-intervals](https://github.com/mindev188/Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/mindev188/Algorithm/tree/master/0605-can-place-flowers) |
+| [1024-video-stitching](https://github.com/mindev188/Algorithm/tree/master/1024-video-stitching) |
 ## Sorting
 |  |
 | ------- |
