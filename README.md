@@ -143,6 +143,7 @@ fix: baekjoon 1260 visited reset bug
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mindev188/Algorithm/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mindev188/Algorithm/tree/master/0056-merge-intervals) |
@@ -185,6 +186,7 @@ fix: baekjoon 1260 visited reset bug
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mindev188/Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
@@ -209,6 +211,7 @@ fix: baekjoon 1260 visited reset bug
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mindev188/Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mindev188/Algorithm/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/mindev188/Algorithm/tree/master/0435-non-overlapping-intervals) |
