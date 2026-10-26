@@ -158,6 +158,7 @@ fix: baekjoon 1260 visited reset bug
 | [0238-product-of-array-except-self](https://github.com/mindev188/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/mindev188/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mindev188/Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mindev188/Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mindev188/Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -192,6 +193,7 @@ fix: baekjoon 1260 visited reset bug
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mindev188/Algorithm/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/mindev188/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mindev188/Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
 | [1024-video-stitching](https://github.com/mindev188/Algorithm/tree/master/1024-video-stitching) |
@@ -240,6 +242,7 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mindev188/Algorithm/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/mindev188/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -403,4 +406,8 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mindev188/Algorithm/tree/master/0056-merge-intervals) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mindev188/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
