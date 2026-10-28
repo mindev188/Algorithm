@@ -150,6 +150,7 @@ fix: baekjoon 1260 visited reset bug
 | [0057-insert-interval](https://github.com/mindev188/Algorithm/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/mindev188/Algorithm/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mindev188/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mindev188/Algorithm/tree/master/0200-number-of-islands) |
@@ -191,6 +192,7 @@ fix: baekjoon 1260 visited reset bug
 | [0045-jump-game-ii](https://github.com/mindev188/Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mindev188/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mindev188/Algorithm/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mindev188/Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mindev188/Algorithm/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mindev188/Algorithm/tree/master/0300-longest-increasing-subsequence) |
@@ -254,6 +256,7 @@ fix: baekjoon 1260 visited reset bug
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/mindev188/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -269,6 +272,7 @@ fix: baekjoon 1260 visited reset bug
 | [0003-longest-substring-without-repeating-characters](https://github.com/mindev188/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mindev188/Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mindev188/Algorithm/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/mindev188/Algorithm/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -417,4 +421,16 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mindev188/Algorithm/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
