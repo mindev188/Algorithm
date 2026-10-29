@@ -173,6 +173,7 @@ fix: baekjoon 1260 visited reset bug
 | [0713-subarray-product-less-than-k](https://github.com/mindev188/Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/mindev188/Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mindev188/Algorithm/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/mindev188/Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/mindev188/Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/mindev188/Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/mindev188/Algorithm/tree/master/0973-k-closest-points-to-origin) |
@@ -200,6 +201,7 @@ fix: baekjoon 1260 visited reset bug
 | [0416-partition-equal-subset-sum](https://github.com/mindev188/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mindev188/Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/mindev188/Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [1024-video-stitching](https://github.com/mindev188/Algorithm/tree/master/1024-video-stitching) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
