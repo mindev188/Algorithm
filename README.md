@@ -203,6 +203,7 @@ fix: baekjoon 1260 visited reset bug
 | [0542-01-matrix](https://github.com/mindev188/Algorithm/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/mindev188/Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [1024-video-stitching](https://github.com/mindev188/Algorithm/tree/master/1024-video-stitching) |
+| [1143-longest-common-subsequence](https://github.com/mindev188/Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mindev188/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -279,6 +280,7 @@ fix: baekjoon 1260 visited reset bug
 | [0424-longest-repeating-character-replacement](https://github.com/mindev188/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mindev188/Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mindev188/Algorithm/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/mindev188/Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mindev188/Algorithm/tree/master/1208-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
@@ -435,4 +437,8 @@ fix: baekjoon 1260 visited reset bug
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mindev188/Algorithm/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mindev188/Algorithm/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
